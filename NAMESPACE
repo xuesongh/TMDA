@@ -1,0 +1,3 @@
+useDynLib("tmda", .registration = TRUE)
+
+export(tmda, cv.tmda, predict.EM, tucker_prod, makevec, loss)

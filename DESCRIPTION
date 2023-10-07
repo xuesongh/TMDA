@@ -1,0 +1,14 @@
+Package: tmda
+Type: Package
+Version: 0.1.0
+Date: 2023-05-27
+Title: Tensor Mixture Discriminant Analysis (TMDA)
+Author: Xuesong Hou <hou00034@umn.edu>, Qing Mai <qmai@fsu.edu>, Hui Zou <hzou@stat.umn.edu>
+Maintainer: Xuesong Hou <hou00034@umn.edu>
+Description: An implementation of tensor mixture discriminant analysis.
+Depends: R (>= 3.5.0)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: yes
+Packaged: 2023-06-20 18:08:20 UTC; xueso
